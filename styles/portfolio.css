@@ -204,3 +204,7 @@ footer .social-links a:hover {
     text-align: center;
   }
 }
+.minHeightImage {
+  min-height: 460px;
+  object-fit: cover;
+}
