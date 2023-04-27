@@ -204,3 +204,7 @@ footer .social-links a:hover {
     text-align: center;
   }
 }
+
+.project-desciption {
+  padding: 120px 60px;
+}
